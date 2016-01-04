@@ -1,0 +1,7 @@
+/* CSS declarations go here */
+h1 {color: blue;
+	text-align: center;}
+
+.selected {
+	background-color: yellow;
+}
